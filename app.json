@@ -8,46 +8,46 @@
     "stack": "container",
   "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with malvin~",
+        "description": "starcore~eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidUoxbDV6Z0NrQ0JDdlJxdHJlUlpRM2tCZk41N053YWFyUGFUTk0wZngyQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNkVST2RHSEEvKzB3dG91SXFITDVuL1BmT0lmZHdKbE05ME9LZk9RNXQxUT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDTXFQUE5CTXhZUzJ6b1B0NndyWHNtYzlhUlJEbHV5cnJaR2l1S1YyR1dzPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIrT0NtdDJNK3ZnYTRpYjBCbHV0VkxlakRLWmdRcUJsUEc2UEtSaldsaUM4PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InNGc0JWRzdlUm8rWUliaURIajd2QllIcTlrbkhmUzhPVTlvQ2dBYWFVV009In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImtmWGIxeEQ0MVc3UTJjbXd3M3ByaUQya0RjMzFzQWppblVaRnNHaW1BMFU9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidUcxMlY0WS9yVDNWNkhZUTdBOWp1ME56TkZ5WjB2d0pEY2Fsalc1YlhsOD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiR0dLSXI5OWpvQnltZlRqS0I0KzlrQVR0ZWdudUNUUWNzbDEyVjZ0UnZnTT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InVlck0rTGxoZDlqd3htNVpSMUZoYm42Ym5Ebzg1enEwTFFUS0s5WG5XU29YRlJNYW51eDR0V0ZHS2p2bGNXVE1DZnRHU2tKWmdTRi9wWTdOTjNqbkNBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NDksImFkdlNlY3JldEtleSI6ImwvUzNIR1VHNDRyanFHbms1N1hYcnA2aUVBcVB3Q1Nwb1Vmc0VaM1JaazQ9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbeyJrZXkiOnsicmVtb3RlSmlkIjoiOTM3OTgyMDk3ODlAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiM0FFMDBGOUZDQzJENkIyREVDNkQifSwibWVzc2FnZVRpbWVzdGFtcCI6MTc1ODgzNTI5Nn1dLCJuZXh0UHJlS2V5SWQiOjMxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MzEsImFjY291bnRTeW5jQ291bnRlciI6MSwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sInJlZ2lzdGVyZWQiOnRydWUsInBhaXJpbmdDb2RlIjoiM0NYRjZWSkwiLCJtZSI6eyJpZCI6IjkzNzk4MjA5Nzg5OjFAcy53aGF0c2FwcC5uZXQiLCJsaWQiOiIyMzg1MDAwNzA4MTc5ODY6MUBsaWQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0xuTHJOY0VFTXprMXNZR0dBRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6Ing2N3piVHZuYnNKK2dNYlZnZldpaU80RGtWa3Z1U1RmUFpEd3FFYzN5a1U9IiwiYWNjb3VudFNpZ25hdHVyZSI6IjhidFVSYjVWUG1iYmtnOTZVbGtOUUJrdzNIN0I2MWQ0TnZrWFZKblVHTDFEM1RkVUp6VFM5SXFaM0lzbHR2WXpJRG9vR2c5akpaZ2t6anpRWlNzN0NRPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJDcTl5OFMxY1ZINnJNVnhBVVhsWlMwS2Flam1xeERYdzdVZUJnblZEODNxOVRoSTdSWHZLZENuQmVjaWlJUEF4REpSbkFKdzVmR2JwbEVERGxnRW5BQT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjkzNzk4MjA5Nzg5OjFAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCY2V1ODIwNzUyN0Nmb0RHMVlIMW9vanVBNUZaTDdrazN6MlE4S2hITjhwRiJ9fV0sInBsYXRmb3JtIjoiaXBob25lIiwicm91dGluZ0luZm8iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDQklJQlE9PSJ9LCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3NTg4MzUyOTEsImxhc3RQcm9wSGFzaCI6Im5tM0JiIiwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFETW0ifQ==",
         "value":"",
-        "required": true
+        "required": fales
         
     },
       "BOT_NAME": {
         "description": "write here your bot name.",
-        "required": true,
+        "required": fales,
         "value": "ᴍᴀʟᴠɪɴ xᴅ" 
         
     },
      "PREFIX": {
        "description": "Bot command prefix, (e.g, . , ! @ etc",
       "value": "."
-      "required": true,
+      "required": fales,
       
     },
       "MODE": {
         "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
         "value":"private",
-        "required": true  
+        "required": fales  
         
    },
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ xᴅ*",
-      "required": true
+      "required": fales
       
    }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "value": "263714757857"
-      "required": true
+      "required": fales
       
    },
     "OWNER_NAME": {
       "description": "Enter your name here",
       "value": "",
-      "required": true
+      "required": fales
     }
 
 },
